@@ -1,0 +1,11 @@
+.navBar{
+    font-weight: bolder;
+    background-color: green;
+    height: 75px;
+    padding-top: 15px;
+}
+.container{
+    padding-top: 300px;
+    font-weight: bolder;
+    font-size:x-large;
+}
